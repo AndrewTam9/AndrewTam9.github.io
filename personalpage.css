@@ -1,0 +1,314 @@
+.header{
+  padding: 60px;
+  text-align: center;
+  color:white;
+  background-image: url("code.jpeg");
+      background-position:center center;
+      background-attachment:fixed;
+      background-size:cover;
+
+
+  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
+  font-size: 0.1px;
+  border-radius: 20px;
+  border-top: 50px;
+  height:100px;
+}
+body{
+  height: 100%;
+
+  background-repeat: no-repeat;
+  background-color: #001933;
+}
+
+.introduction{
+
+  color: blue;
+}
+#hello{
+  text-align: center;
+  color: white;
+  margin-top: 30px;
+
+}
+#personalPic{
+  height: 300px;
+  width:250px;
+  margin-top: 60px;
+  margin-left: 150px;
+  float: left;
+  border-radius: 5px;
+}
+.intro-section{
+  display: inline;
+}
+#job-pic{
+  height:85px;
+  width: 85px;
+  border-radius: 50px;
+  float: left;
+
+}
+.about-me{
+float:left;
+  padding-left: 65px;
+  margin-top: 80px;
+
+}
+#experience-header{
+  text-align: center;
+  color: black;
+}
+.experience-section{
+  text-align: center;
+  background-color: white;
+}
+#new{
+  color: white;
+  position: relative;
+}
+.job{
+  display: inline-block;
+}
+#job-title{
+  float: left;
+  padding-left: 40px;;
+}
+#about-me-desc{
+  color:#66FFB2;
+}
+#my-intro{
+  font-family:sans-serif;
+  color: #A0A0A0;
+}
+#my-intro-2{
+  font-family: sans-serif;
+  color: #A0A0A0;
+}
+#my-fun-facts{
+  font-family: sans-serif;
+  color: #66FFB2;
+}
+#personal-interests{
+
+  color: #A0A0A0;
+}
+#personal-interest-list{
+  color: #A0A0A0;
+}
+.fun-facts{
+  float:left;
+  margin-top: -230px;
+  padding-left: 500px;
+}
+.intro{
+  display: inline-block;
+
+}
+.li{
+  padding: 100px;
+}
+.about-border {
+    display: block;
+    width: 150px;
+    height: 3px;
+    background: #f1cd8f;
+    margin: 20px auto;
+}
+#descPic{
+  height:350px;
+  width: 350px;
+  margin-left: 100px;
+}
+.description{
+  border: 5px solid black;
+  float:right;
+  border-top: 50px;
+}
+
+.experience{
+  text-align: center;
+}
+
+.nav a{
+  font-size: 20px;
+  text-decoration: none;
+  color:white;
+  padding:0.5em;
+}
+.nav li{
+  display: inline;
+}
+.nav ul{
+  margin-bottom: 200px;
+  margin: 0;
+}
+.nav a:hover{
+  background-color: blue;
+}
+.nav a:visited{background-color: blue;
+}
+.nav{
+
+  border-bottom: 1px solid white;
+  height:50px;
+}
+#myName{
+  font-size: 35px;
+
+}
+.experience{
+  background-color: blue;
+}
+.experience-section{
+
+  background-color: #E0E0E0;
+}
+#date-worked{
+  margin-right: 320px;
+  padding-left: 20px;
+
+}
+.job-duties{
+
+}
+.job-duties li{
+  list-style-type: inherit;;
+}
+#job-duty{
+  font-family:sans-serif;
+}
+.skill-button {
+  background-color: white; /* Green */
+  border: none;
+  color: blue;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 30px;
+}
+.education-section{
+  background-color: #001933;
+}
+#edu-desc{
+  color:white;
+}
+#edu-header{
+  color: white;
+}
+#date-enrolled{
+  color: white;
+}
+#edu-title{
+  color:white;
+}
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+#who-i-am{
+  color:white;
+}
+.about-border-2{
+  display: block;
+  width: 150px;
+  height: 3px;
+  background: white;
+  margin: 20px auto;
+}
+#project-header{
+  text-align: center;
+  color: black;
+}
+.projects{
+  background-color: #E0E0E0;
+}
+.project{
+  display: inline;
+}
+#project-1{
+  height: 300px;
+  width:225px;
+  border-radius: 30px;
+}
+#project-3{
+
+margin-left: 20px;
+
+  height: 300px;
+  width:225px;
+  border-radius: 30px;
+}
+#project-2{
+
+margin-left: 20px;
+
+  height: 300px;
+  width:225px;
+  border-radius: 30px;
+}
+.contact{
+
+  background-color: #001933;
+
+
+}
+.contact-type{
+  display: inline;
+}
+#contact-1{
+
+  margin-left: 20px;
+  height:30px;
+  weight:30px;
+  border-radius: 30px;
+}
+#contact-2{
+margin-left: 20px;
+  height:30px;
+  weight:30px;
+  border-radius: 30px;
+}
+#contact-3{
+margin-left: 20px;
+  height:30px;
+  weight:30px;
+  border-radius: 30px;
+}
+#contact-header{
+  color: white;
+}
+/* ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+li{
+  display: inline;
+}
+a{
+  padding: 8px;
+  background-color: #dddddd;
+} */
